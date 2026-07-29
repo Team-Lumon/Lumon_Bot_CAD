@@ -1,0 +1,17 @@
+# SolidWorks temporary files
+~$*
+*.bak
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# SolidWorks cache/backup
+*.swp
+*.swar
+
+# IDE files
+.vscode/
+.idea/
+
